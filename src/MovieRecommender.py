@@ -1,10 +1,10 @@
 """
-hello.py
+MovieRecommender.py
 ====================================
-This is an example file with correct docstring examples
+This is an example file with a movie recommender.
 
-| Author: Seth McNeill
-| Date: 2025 September 07
+| Author: Bailey Klote
+| Date: 2025 November 25
 """
 
 class SayHello:
